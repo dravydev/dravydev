@@ -2,7 +2,6 @@
 =============================================================================================================================
 *   🎂  I'm 20 years old
 *   🌍  I'm based near to Wrocław
-*   🖥️  See my portfolio at [dravy.dev](http://dravy.dev)
 ### Skills 
 <p align="left">
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
