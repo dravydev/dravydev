@@ -1,7 +1,8 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello
 =============================================================================================================================
 *   🎂  I'm 20 years old
-*   🌍  I'm based near to Wrocław
+*   🌆  I'm based near to Wrocław
+*   🌐  Personal website: [dravy.dev](https://dravy.dev/)
 ### Skills 
 <p align="left">
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
